@@ -17,7 +17,7 @@ Move to the directory:
 cd demo
 
 Then paste the link copied in the github as a zip file
-wget 
+wget https://github.com/edwinrajmichel/website-hosting/archive/refs/heads/main.zip
 
 Next Unzip the file:
 unzip complex.zip
